@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nidhi05anand0445/WebProject/_apis/build/status/archana05aarti.ContosoAir?branchName=master)](https://dev.azure.com/nidhi05anand0445/WebProject/_build/latest?definitionId=7&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
